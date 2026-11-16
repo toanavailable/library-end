@@ -36,7 +36,8 @@ Vì WRITES là quan hệ N–N, cần thêm một bảng trung gian:
 
 ## 4. Link vẽ Draw.io
 
-
+- Link vẽ trước khi sửa: https://drive.google.com/file/d/1Gh-eGV0OJCyGOHMGrqRcNVVndrRPR1pf/view?usp=sharing
+- Link vẽ sau khi sửa: https://drive.google.com/file/d/1hNb_8r_asMsU3HdObYfUffvBFzqOn4Fm/view?usp=sharing
 
 ## File trong repository
 
