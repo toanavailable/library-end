@@ -36,6 +36,5 @@ Vì WRITES là quan hệ N–N, cần thêm một bảng trung gian:
 
 ## File trong repository
 
-- `library-erd.drawio`: file gốc, mở bằng [draw.io](https://app.diagrams.net). File có 2 trang: ERD sau khi sửa và ERD ban đầu.
 - `erd-sau-khi-sua.png`: ảnh ERD đã sửa.
 - `erd-ban-dau-sai.png`: ảnh ERD ban đầu, để so sánh.
