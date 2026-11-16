@@ -36,8 +36,8 @@ Vì WRITES là quan hệ N–N, cần thêm một bảng trung gian:
 
 ## 4. Link vẽ Draw.io
 
-Mô hình ERD trước khi sửa: https://drive.google.com/file/d/11d3TQtGKT9KUmGwrQECnwHcnB-u-89Uz/view?usp=sharing
-Mô hình ERD sau khi sửa: https://drive.google.com/file/d/1KWxmLTEO-oNpLEJTELBx62O2_H0Fc_Ik/view?usp=sharing
+- Mô hình ERD trước khi sửa: https://drive.google.com/file/d/11d3TQtGKT9KUmGwrQECnwHcnB-u-89Uz/view?usp=sharing
+- Mô hình ERD sau khi sửa: https://drive.google.com/file/d/1KWxmLTEO-oNpLEJTELBx62O2_H0Fc_Ik/view?usp=sharing
 
 ## File trong repository
 
