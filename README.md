@@ -34,6 +34,11 @@ Vì WRITES là quan hệ N–N, cần thêm một bảng trung gian:
 | AUTHORS | **author_id** (PK), author_name, birth_year, biography |
 | BOOK_AUTHORS | **book_id** (FK → BOOKS), **author_id** (FK → AUTHORS); PK = (book_id, author_id) |
 
+## 4. Link vẽ Draw.io
+
+Mô hình ERD trước khi sửa: https://drive.google.com/file/d/11d3TQtGKT9KUmGwrQECnwHcnB-u-89Uz/view?usp=sharing
+Mô hình ERD sau khi sửa: https://drive.google.com/file/d/1KWxmLTEO-oNpLEJTELBx62O2_H0Fc_Ik/view?usp=sharing
+
 ## File trong repository
 
 - `erd-sau-khi-sua.png`: ảnh ERD đã sửa.
